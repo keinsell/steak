@@ -3,7 +3,7 @@ In my work as a software developer, I have used a variety of tools to build and 
 
 ## Programming Languages
 
-- `[2021]` **[Rust]()**: Rust is a promising language in my stack. I have used it to write Solana and Cosmos smart contracts, and it is now one of my main focuses to build serverless and standalone servers with Rust because of its higher stability than TypeScript itself.
+- `[2021]` **[Rust]()**: Rust is a promising language in my stack. I have used it to write Solana smart contracts, and it is now one of my main focuses to build serverless and standalone servers with Rust because of its higher stability than TypeScript itself.
 - `[2018]` **[TypeScript]()**: TypeScript is one of my favourite and most widely used programming languages for building web servers and front-end applications.
 - `[2015]` **[JavaScript]()**: Ideal language for starting programming as it’s language for people with negative IQ.
 - `[2013]` **[Java]()**: Trying to write and build my own Minecraft servers when I was teenager, do mind using this piece of shit again.
