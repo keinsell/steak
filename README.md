@@ -27,3 +27,8 @@ In my work as a software developer, I have used a variety of tools to build and 
 - `[2019]` Redis
 - `[2019]` Memcached
 
+
+## Business Tools
+### Project Management
+- `[2020]` Linear ([proof](https://github.com/araclx/ENV/commit/9d7337e3c7d17e7c3c845c299158b4f922ae2603)) 
+- `[2015]` Jira
